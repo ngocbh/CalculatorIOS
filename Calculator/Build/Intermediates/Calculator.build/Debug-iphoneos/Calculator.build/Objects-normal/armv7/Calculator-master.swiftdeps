@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.45.6 clang-900.0.26)"
+options: "b6d628d7588251a7307a3f8cb862d2ee"
+build_time: [1500962461, 129372000]
+inputs:
+  "/Users/ngocjr/Developer/Project/Swift/Calculator/Calculator/AppDelegate.swift": [1500700649, 0]
+  "/Users/ngocjr/Developer/Project/Swift/Calculator/Calculator/ViewControllerCal.swift": [1500961443, 0]
